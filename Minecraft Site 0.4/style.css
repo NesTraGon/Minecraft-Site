@@ -1,0 +1,237 @@
+body {
+    margin: 0;
+}
+
+*,
+*:after,
+*:before{
+    box-sizing: border-box;
+    padding: 0px;
+}
+
+.crutch {
+    height: 750px;
+}
+
+.hat {
+    
+}
+
+.hat_img {
+    width: 100%;
+    height: 25%;
+    left: 0px;
+    top: 0px;
+}
+
+.logo {
+    -webkit-filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.5));
+  filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.5));
+    position: absolute;
+    width: 36%;
+    height: 12%;
+    left: 14%;
+    top: 2%;
+}
+
+.bottom {
+    -webkit-filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.5));
+  filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.5));
+    position: absolute;
+    width: 100%;
+    height: 2%;
+    top: 33%;
+    z-index: 3;
+}
+
+.sign {
+    position: absolute;
+    height: 150%;
+    right: 346px;
+    top: 255px;
+    z-index: 4;
+    
+}
+
+.sticky {
+    position: sticky;
+    position: -webkit-sticky;
+    top: -2px;    
+}
+
+.sign_img {
+    position: absolute;
+    transform: scale(-1, 1);
+    width: 346px;
+    height: 168px;
+}
+
+.home {
+    -webkit-filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.5));
+  filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.5));
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 20px;
+    width: 65px;
+    height: 65px;
+}
+
+.settings {
+    -webkit-filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.5));
+  filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.5));
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 98px;
+    width: 65px;
+    height: 65px;
+}
+
+.faq {
+    -webkit-filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.5));
+  filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.5));
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 176px;
+    width: 65px;
+    height: 65px;
+}
+
+.back {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0px;
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+
+.background {
+    width: 100%;
+    height: 100%;
+    opacity: 70%;
+}
+
+.bacement_con {
+    position: relative;
+    bottom: 0%;
+}
+
+.bacement {
+    position: relative;
+    width: 100%;
+}
+
+.icon {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    border: 5px solid #64e3ff;
+    border-radius: 10px;
+    right: 2%;
+    top: 3%;
+    width: 70px;
+    height: 70px;    
+}
+
+.end_back {
+    position: absolute;
+    height: 600px;
+    width: 600px;
+    border-radius: 25px;
+    
+}
+
+.end_forw {
+    position: absolute;
+    height: 550px;
+    width: 550px;
+    left: 25px;
+    top: 25px;
+    border-radius: 20px;
+}
+
+.end {
+    position: absolute;
+    left: 10%;
+    top: 550px;
+    
+}
+
+.overworld {
+    position: absolute;
+    top: 550px;
+    left: 55%;
+}
+
+.overworld_back {
+    position: absolute;
+    height: 600px;
+    width: 600px;
+    border-radius: 25px;
+} 
+
+.overworld_forw {
+    position: absolute;
+    height: 550px;
+    width: 550px;
+    left: 25px;
+    top: 25px;
+    border-radius: 20px;
+}
+
+.ocean {
+    position: absolute;
+    top: 1350px;
+    left: 10%;
+}
+
+.ocean_back {
+    position: absolute;
+    height: 600px;
+    width: 600px;
+    border-radius: 25px;
+}
+
+.ocean_forw {
+    position: absolute;
+    height: 550px;
+    width: 550px;
+    left: 25px;
+    top: 25px;
+    border-radius: 20px;
+}
+
+.nether {
+    position: absolute;
+    top: 1350px;
+    left: 55%;
+}
+
+.nether_back {
+    position: absolute;
+    height: 600px;
+    width: 600px;
+    border-radius: 25px;
+}
+
+.nether_forw {
+    position: absolute;
+    height: 550px;
+    width: 550px;
+    left: 25px;
+    top: 25px;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
